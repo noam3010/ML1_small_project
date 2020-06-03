@@ -1,6 +1,6 @@
 *Machine Learning 1 - Small Dataset - ZIP file contains:*
 
-AE_project.HTML file - (The actual project) HTML file with the project which can be run independently
+AE_project.HTML file - (The actual PROJECT) HTML file with the project which can be run independently
 
 ML_project_rm.RMD - R markdown file with all the codes, models and analysis
 
