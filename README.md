@@ -1,4 +1,4 @@
-**Machine Learning 1 - Small Dataset - ZIP file contains:** 
+*Machine Learning 1 - Small Dataset - ZIP file contains:*
 
 AE_project.HTML file - HTML with the project 
 
